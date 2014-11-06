@@ -1,6 +1,6 @@
 {
   "name": "package-author-names",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extract author names from package data",
   "repository": "shinnn/package-author-names",
   "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
