@@ -1,0 +1,21 @@
+{
+  "name": "package-author-names",
+  "version": "1.0.0",
+  "description": "Extract author names from package data",
+  "keywords": [
+    "name",
+    "author",
+    "authors",
+    "pkg",
+    "package"
+  ],
+  "repository": "shinnn/package-author-names",
+  "main": "package-author-names-cjs.js",
+  "scripts": [
+    "package-author-names-cjs.js"
+  ],
+  "dependencies": {
+    "shinnn/parse-author-name.js": "*"
+  },
+  "license": "MIT"
+}
